@@ -1,14 +1,18 @@
 div {
     display: flex;
     flex-direction: column;
-    width: 300px;
-    height: 400px;
-    background-color: red;
     flex-wrap: nowrap;
-    overflow: auto;
+    width: 400px;
+    height: 600;
+
+    
 }
 
 img {
     width: 100px;
     height: 80px;
+    margin: 20px;
+    padding: 10px;
+    background-color: bisque;
+    border-radius: 60%;
 }
